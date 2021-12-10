@@ -1,0 +1,29 @@
+.main_box{
+    display: flex;
+    width :400px;
+    height: auto;
+    margin-left: 10%;
+}
+.box{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.cart_box{
+    height: auto;
+}
+.bg{
+    background-color: tomato;
+    height: 300px;
+}
+.block2{
+    margin: 70px;
+}
+.img_block{
+    width: 70%;
+    height: 300px;
+}
+a{
+    position: absolute;
+}
