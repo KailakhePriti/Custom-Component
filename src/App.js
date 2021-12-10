@@ -8,8 +8,8 @@ import r3 from './images/r3.jpg';
 function App() {
   return (
     <div className="App">
-        {/* <Temp/> */}
-        <Cart cartname="Reactjs"
+        <Temp/>
+        {/* <Cart cartname="Reactjs"
           carttext="React is a JavaScript library for building user interfaces.
           React is used to build single-page applications.
           React allows us to create reusable UI components."
@@ -48,7 +48,7 @@ function App() {
           imgsrc={first}
           link="https://reactjs.org"
           clickHere="Click Here"
-          />
+          /> */}
     </div>
   );
 }
